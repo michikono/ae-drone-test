@@ -3,6 +3,3 @@ env:
   - GOPATH=/var/cache/drone
 script:
   - npm install -g yo gulp bower karma
-  - npm install
-  - bower install
-  - npm test
