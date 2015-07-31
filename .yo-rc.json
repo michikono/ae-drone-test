@@ -1,0 +1,10 @@
+{
+  "generator-angular-enterprise": {
+    "appName": "app",
+    "clientSideFolder": "client/",
+    "appSubFolder": "app/",
+    "directivePrefix": "",
+    "uirouter": true,
+    "swagger": true
+  }
+}

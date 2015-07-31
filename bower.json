@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "main": "client/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.4",
+    "angular-animate": "~1.4",
+    "angular-resource": "~1.4",
+    "angular-cookies": "~1.4",
+    "angular-mocks": "~1.4",
+    "angular-ui-utils": "~0.1",
+    "bootstrap-sass-official": "~3.3.4",
+    "angular-bootstrap": "~0.13.0",
+    "font-awesome": "~4.0",
+    "angular-ui-router": "~0.2.15"
+  }
+}
